@@ -1,1 +1,1 @@
-# Sports-Registration
+# SPORTS-REGISTRATION
