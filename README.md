@@ -72,5 +72,3 @@ For any queries or support, please contact [Anjali Kumari](mailto:anjalikumari65
 ---
 
 *Feel free to fork this repository and make enhancements to improve the functionality and features of the Sports Registration application!*
-```
-
