@@ -67,11 +67,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any queries or support, please contact [Anjali Kumari](mailto:your-email@example.com).
+For any queries or support, please contact [Anjali Kumari](mailto:anjalikumari6512@example.com).
 
 ---
 
 *Feel free to fork this repository and make enhancements to improve the functionality and features of the Sports Registration application!*
 ```
 
-Replace `"your-email@example.com"` with your actual email address, and feel free to customize any parts of the README to better fit your project details or preferences.
